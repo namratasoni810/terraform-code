@@ -112,9 +112,9 @@ containers={
     storage_account_key = "str2"
   }
 }
-# Tags
-# tags = {
-#   environment = "dev"
-#   owner       = "Namrata"
-#   project     = "hub-spoke"
-# }
+ Tags
+ tags = {
+   environment = "dev-branch feature1"
+  owner       = "Namrata"
+   project     = "hub-spoke"
+ }
