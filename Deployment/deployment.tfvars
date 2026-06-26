@@ -114,7 +114,7 @@ containers={
 }
  Tags
  tags = {
-   environment = "dev-branch feature1"
-  owner       = "Namrata"
+   environment = "dev"
+  owner       = "Soni"
    project     = "hub-spoke"
  }
